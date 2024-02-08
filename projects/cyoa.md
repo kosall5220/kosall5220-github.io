@@ -74,18 +74,3 @@
     </div>
 
 
-
-    <!-- Footer -->
-    <footer class="container-fluid bg-4 text-center">
-        <a href="#" target="_blank" id="fork"><img src="../img/fork.png"></a><br>
-        <a href="https://hstatsep.github.io" target="_blank"><img src="https://hstatsep.github.io/img/hstatsep-logo-small.png" id="sep"></a>
-    </footer>
-
-
-    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-core.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/plugins/normalize-whitespace/prism-normalize-whitespace.min.js"></script>
-    <script src="../script.js"></script>
-</body>
-
-</html>
